@@ -1,5 +1,5 @@
 _number_ _currency_
 _currency_ _number_
 _currency_ _number_ million
-_number_
+_number_ _not_ _number_ min _not_ _number_ mins _not_ _number_ minutes
 _currency_: _number_
