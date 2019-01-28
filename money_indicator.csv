@@ -6,3 +6,4 @@ _currency_ _number_ thousand
 _currency_ _number_ m
 _currency_ _number_ million
 _currency_: _number_
+_number_ _puntuation_ _currency_ 
